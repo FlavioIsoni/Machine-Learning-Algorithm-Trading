@@ -1,2 +1,2 @@
-# Machine-Learning-Algorithms-Trading
-Machine Learning in Financial Markets - Algorithms for Trading (by Quantra / QuantInsti)
+# Machine-Learning-Algorithms-Trading (by Quantra / QuantInsti)
+Machine Learning in Financial Markets - Algorithms for Trading
